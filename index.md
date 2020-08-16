@@ -3,8 +3,6 @@ title: Commands
 has_children: true
 nav_order: 1
 ---
-[Source code on GitHub](https://www.github.com/BotSauce/BotSauce){: .btn .btn-purple .mr-2 }
-[Vsauce3 Discord Server](https://discord.gg/VRr4hVR){: .btn .btn-blue }
 
 # Commands
 
@@ -40,3 +38,6 @@ Links to Jake's Twitch/YouTube/Twitter accounts
 
 ## **\randomvideo**
 Links to a randomly selected Vsauce3 video
+
+[Source code on GitHub](https://www.github.com/BotSauce/BotSauce){: .btn .btn-purple .mr-2 }
+[Vsauce3 Discord Server](https://discord.gg/VRr4hVR){: .btn .btn-blue }
