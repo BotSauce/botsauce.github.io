@@ -2,3 +2,13 @@ title: "BotSauce"
 remote_theme: pmarsceill/just-the-docs
 heading_anchors: true
 color_scheme: dark_purple
+
+# Aux links for the upper right navigation
+aux_links:
+  "BotSauce source code":
+    - "//github.com/BotSauce/BotSauce"
+  "Vsauce3 Discord Server":
+    - "https://discord.gg/VRr4hVR"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
