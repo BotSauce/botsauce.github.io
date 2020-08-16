@@ -1,5 +1,4 @@
-title: "Remote theme example"
+title: "BotSauce"
 remote_theme: pmarsceill/just-the-docs
 heading_anchors: true
 color_scheme: light
-logo: "/assets/images/botsauce_round.png"
