@@ -26,8 +26,3 @@ Usage: **\ban** *[user]* *[reason]*, or just **\ban** *[user]*
 
 ## **\refreshtokens**
 Refreshes the Twitch API tokens. **ONLY RUN IN #botsauce-tokens**
-
-* * *
-
-[Source code on GitHub](https://www.github.com/BotSauce/BotSauce){: .btn .btn-purple .mr-2 }
-[Vsauce3 Discord Server](https://discord.gg/VRr4hVR){: .btn .btn-blue }
