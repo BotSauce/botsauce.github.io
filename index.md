@@ -1,7 +1,7 @@
 ---
 title: Commands
-has_children: false
-nav_order: 0
+has_children: true
+nav_order: 1
 ---
 
 # Commands
