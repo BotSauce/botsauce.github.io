@@ -25,4 +25,4 @@ Usage: **\ban** *[user]* *[reason]*, or just **\ban** *[user]*
 {: .label .label-purple }
 
 ## **\refreshtokens**
-Refreshes the Twitch API tokens. **ONLY RUN IN #botsauce-tokens**
+Refreshes the Twitch API tokens. **RUN ONLY IN #botsauce-tokens**
