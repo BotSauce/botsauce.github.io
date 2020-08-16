@@ -3,6 +3,9 @@ title: Commands
 has_children: true
 nav_order: 1
 ---
+[View the source code of the bot on GitHub](https://www.github.com/BotSauce/BotSauce){: .btn .btn-purple .mr-2 }
+[Join the Vsauce3 Discord Server](https://discord.gg/VRr4hVR){: .btn .btn-blue }
+
 
 # Commands
 
