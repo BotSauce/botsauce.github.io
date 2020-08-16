@@ -1,6 +1,5 @@
 title: "BotSauce"
 remote_theme: pmarsceill/just-the-docs
-heading_anchors: true
 color_scheme: dark_purple
 
 # Aux links for the upper right navigation
@@ -12,3 +11,14 @@ aux_links:
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
+# Footer content 
+# appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Monty#3581. Distributed by a <a href=\"https://github.com/BotSauce/botsauce.github.io/blob/master/LICENSE">GPL-3.0 License.</a> \nMade with love by <a href=\"https://github.com/Montelion">Montelion#3581</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+ga_tracking: UA-175550440-1
+ga_tracking_anonymize_ip: true
