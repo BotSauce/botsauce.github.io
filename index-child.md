@@ -11,14 +11,23 @@ nav_order: 1
 Sets a custom status for the bot.
 
 Usage
-{: .label .label-purple } \setstatus *[status]*
+{: .label .label-purple }
+### **\setstatus** *[status]*
 
 ## **\resetstatus**
 Resets the status to its original state
 
 # Admin only commands
 
+## **\ban**
+Bans a user and sends them a DM containing the ban appeal form
 
+Usage
+{: .label .label-purple }
+### **\ban** *[user]* *[reason]*, or just **\ban** *[user]*
+
+## **\refreshtokens**
+Refreshes the Twitch API tokens. **ONLY RUN IN #botsauce-tokens**
 
 * * *
 
