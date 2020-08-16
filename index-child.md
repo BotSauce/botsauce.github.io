@@ -11,8 +11,7 @@ nav_order: 1
 Sets a custom status for the bot.
 
 Usage
-{: .label .label-purple }
-\setstatus *[status]*
+{: .label .label-purple } \setstatus *[status]*
 
 ## **\resetstatus**
 Resets the status to its original state
