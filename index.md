@@ -39,5 +39,5 @@ Links to Jake's Twitch/YouTube/Twitter accounts
 ## \randomvideo
 Links to a randomly selected Vsauce3 video
 
-[View the source code of the bot on GitHub](https://www.github.com/BotSauce/BotSauce){: .btn .btn-purple .mr-2 }
-[Join the Vsauce3 Discord Server](https://discord.gg/VRr4hVR){: .btn .btn-blue }
+[Source code on GitHub](https://www.github.com/BotSauce/BotSauce){: .btn .btn-purple .mr-2 }
+[Vsauce3 Discord Server](https://discord.gg/VRr4hVR){: .btn .btn-blue }
