@@ -8,35 +8,35 @@ nav_order: 1
 
 # Commands
 
-## \caulk
+## **\caulk**
 *'cause I don't think you can handle it. You can't handle...* this command
 
-## \weigh
+## **\weigh**
 What does this command do? *Mmm, very good question. But more importantly... how much does it weigh?*
 
-## \fingers
+## **\fingers**
 Hey, Vsauce. Michael here. *Where are your fingers?*
 
-## \succ
+## **\succ**
 ***S  U  C  C***
 
-## \bazinga
+## **\bazinga**
 ***B A Z I N G A***
 
-## \stop
+## **\stop**
 Stops whatever the bot is playing in VC
 
-## \jakerobot
+## **\jakerobot**
 Links to AI-generated tweets made using tweets by @jakerawr
 
-## \orisit
+## **\orisit**
 Plays "Moon Men" by Jake Chudnow (a.k.a. the Vsauce theme)
 
-## \randomvideo
+## **\randomvideo**
 Links to a randomly selected Vsauce3 video
 
-## \twitch, \youtube, \twitter
+## **\twitc**, **\youtube**, **\twitter**
 Links to Jake's Twitch/YouTube/Twitter accounts
 
-## \randomvideo
+## **\randomvideo**
 Links to a randomly selected Vsauce3 video
