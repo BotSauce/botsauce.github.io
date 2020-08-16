@@ -5,9 +5,18 @@ has_children: false
 nav_order: 1
 ---
 
-# Child of test
+# Mod/Admin commands
 
-I am a child page.
+## \setstatus
+Sets a custom status for the bot.
+Usage
+{: .label .label-purple }
+\setstatus *[status]*
+
+## \resetstatus
+Resets the status to its original state
+
+# Admin only commands
 
 
 
