@@ -6,7 +6,36 @@ nav_order: 2
 
 # Changelog
 
-## **v3.3**
+
+## **v3.6.0**
+
+Added
+{: .label .label-purple }
+- Added code for the Twitch API, more specifically:
+  - Added code to subscribe to the Twitch Webhooks
+  - Added code to process the Twitch Webhooks and ping the @streams role
+  - Added code to refresh the New Twitch API Tokens
+  - Added \refreshtokens
+
+## **v3.4.0 - v3.5.0**
+
+Added
+{: .label .label-purple }
+- Added code to handle complaints and ban appeals
+- Added \ban command
+
+
+## **v3.3.1**
+
+Added
+{: .label .label-purple }
+- Added code to check for specific key in POST request (a simple form of authentication)
+- Added basic auto-moderator that deletes a mssage if it contains a swear word
+- Added \stop
+
+* * *
+
+## **v3.3.0**
 
 Changed
 {: .label .label-blue }
@@ -20,7 +49,7 @@ Added
 
 * * *
 
-## **v3.2**
+## **v3.2.0**
 
 Added
 {: .label .label-purple }
@@ -28,7 +57,7 @@ Added
 
 * * *
 
-## **v3.1**
+## **v3.1.0**
 
 Added
 {: .label .label-purple }
@@ -40,7 +69,7 @@ Added
 
 * * *
 
-## **v3.0**
+## **v3.0.0**
 
 Changed
 {: .label .label-blue }
@@ -49,7 +78,7 @@ Changed
 
 * * *
 
-## **v2.3**
+## **v2.3.0**
 
 Added
 {: .label .label-purple }
@@ -57,7 +86,7 @@ Added
 
 * * *
 
-## **v2.2**
+## **v2.2.0**
 
 Added
 {: .label .label-purple }
@@ -74,7 +103,7 @@ Changed
 
 * * *
 
-## **v2.1**
+## **v2.1.0**
 
 Added
 {: .label .label-purple }
@@ -86,7 +115,7 @@ Changed
 
 * * *
 
-## **v2.0**
+## **v2.0.0**
 
 Major rewrite of the bot.
 
@@ -107,7 +136,7 @@ Changed
 
 * * *
 
-## **v1.0**
+## **v1.0.0**
 First release
 
 Added
