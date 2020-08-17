@@ -6,7 +6,6 @@ nav_order: 2
 
 # Changelog
 
-
 ## [**v3.6.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.6.0)
 
 Added
@@ -17,6 +16,8 @@ Added
   - Added code to refresh the New Twitch API Tokens
   - Added \refreshtokens
 
+* * *
+
 ## [**v3.4.0 - v3.5.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.5)
 
 Added
@@ -24,6 +25,7 @@ Added
 - Added code to handle complaints and ban appeals
 - Added \ban command
 
+* * *
 
 ## [**v3.3.1**](https://github.com/BotSauce/BotSauce/releases/tag/v3.3.1)
 
