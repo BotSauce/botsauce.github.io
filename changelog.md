@@ -7,7 +7,7 @@ nav_order: 2
 # Changelog
 
 
-## **v3.6.0**
+## [**v3.6.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.6.0)
 
 Added
 {: .label .label-purple }
@@ -17,7 +17,7 @@ Added
   - Added code to refresh the New Twitch API Tokens
   - Added \refreshtokens
 
-## **v3.4.0 - v3.5.0**
+## [**v3.4.0 - v3.5.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.5)
 
 Added
 {: .label .label-purple }
@@ -25,7 +25,7 @@ Added
 - Added \ban command
 
 
-## **v3.3.1**
+## [**v3.3.1**](https://github.com/BotSauce/BotSauce/releases/tag/v3.3.1)
 
 Added
 {: .label .label-purple }
@@ -35,7 +35,7 @@ Added
 
 * * *
 
-## **v3.3.0**
+## [**v3.3.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.3.0)
 
 Changed
 {: .label .label-blue }
@@ -49,7 +49,7 @@ Added
 
 * * *
 
-## **v3.2.0**
+## [**v3.2.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.2.0)
 
 Added
 {: .label .label-purple }
@@ -57,7 +57,7 @@ Added
 
 * * *
 
-## **v3.1.0**
+## [**v3.1.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.1.0)
 
 Added
 {: .label .label-purple }
@@ -69,7 +69,7 @@ Added
 
 * * *
 
-## **v3.0.0**
+## [**v3.0.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.0.0)
 
 Changed
 {: .label .label-blue }
@@ -78,7 +78,7 @@ Changed
 
 * * *
 
-## **v2.3.0**
+## [**v2.3.0**](https://github.com/BotSauce/BotSauce/releases/tag/v2.3.0)
 
 Added
 {: .label .label-purple }
@@ -86,7 +86,7 @@ Added
 
 * * *
 
-## **v2.2.0**
+## [**v2.2.0**](https://github.com/BotSauce/BotSauce/releases/tag/v2.2.0)
 
 Added
 {: .label .label-purple }
