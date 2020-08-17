@@ -46,7 +46,7 @@ Changed
 
 Added
 {: .label .label-purple }
-- Added basic auto-moderator that deletes a mssage if it contains a swear word
+- Added basic auto-moderator that deletes a message if it contains a swear word
 - Added \stop
 
 * * *
