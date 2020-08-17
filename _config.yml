@@ -13,6 +13,14 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
+# Display the relative url in search results
+# Supports true (default) or false
+search.rel_url: false
+
+# Enable or disable the search button that appears in the bottom right corner of every page
+# Supports true or false (default)
+search.button: true
+
 # Footer content 
 # appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 <a href=\"https://github.com/Montelion\">Monty#3581</a>. Distributed under a <a href=\"https://github.com/BotSauce/botsauce.github.io/blob/master/LICENSE\">GPL-3.0 License.</a>"
