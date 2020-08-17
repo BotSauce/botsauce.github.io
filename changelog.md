@@ -6,16 +6,50 @@ nav_order: 2
 
 # Changelog
 
+## **v3.3**
 
+Changed
+{: .label .label-blue }
+- Added the musicCommands function
+- Moved the arrays to dedicated files (e.g. vsauce3vids was moved to vsauce3vids.js)
 
-## v3.0
+Added
+{: .label .label-purple }
+- Added basic auto-moderator that deletes a mssage if it contains a swear word
+- Added \stop
 
+* * *
+
+## **v3.2**
+
+Added
+{: .label .label-purple }
+- Added \jakerobot
+
+* * *
+
+## **v3.1**
+
+Added
+{: .label .label-purple }
+- Added code to handle notifications, more specifically:
+  - Added code to receive POST requests
+  - Added code to send a message to the appropriate channel, depening on the content of the POST request
+- Added code to greet new members
+- Added \succ
+
+* * *
+
+## **v3.0**
+
+Changed
+{: .label .label-blue }
 - Some commands now work differently depending on if the user is in voice chat or not
 - The voice chat clips are stored in /audioclips, which means that the bot doesn't have to rely on external sources
 
 * * *
 
-## v2.3
+## **v2.3**
 
 Added
 {: .label .label-purple }
@@ -23,7 +57,7 @@ Added
 
 * * *
 
-## v2.2
+## **v2.2**
 
 Added
 {: .label .label-purple }
@@ -40,7 +74,7 @@ Changed
 
 * * *
 
-## v2.1
+## **v2.1**
 
 Added
 {: .label .label-purple }
@@ -52,7 +86,7 @@ Changed
 
 * * *
 
-## v2.0
+## **v2.0**
 
 Major rewrite of the bot.
 
@@ -73,7 +107,7 @@ Changed
 
 * * *
 
-## v1.0
+## **v1.0**
 First release
 
 Added
