@@ -10,7 +10,7 @@ nav_order: 2
 
 
 
-
+* * *
 
 ## v2.0
 
@@ -30,6 +30,8 @@ Changed
 {: .label .label-blue }
 - Cleaned up code
 - Minor changes
+
+* * *
 
 ## v1.0
 First release
