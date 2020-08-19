@@ -6,6 +6,12 @@ nav_order: 2
 
 # Changelog
 
+## [**v3.7.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.7.0)
+
+Added
+{: .label .label-purple }
+- Added code to make the bot automatically publish every message sent in the News (a.k.a. Announcement) channels
+
 ## [**v3.6.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.6.0)
 
 Added
