@@ -12,6 +12,8 @@ Added
 {: .label .label-purple }
 - Added code to make the bot automatically publish every message sent in the News (a.k.a. Announcement) channels
 
+* * *
+
 ## [**v3.6.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.6.0)
 
 Added
