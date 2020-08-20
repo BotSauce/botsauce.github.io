@@ -6,6 +6,16 @@ nav_order: 2
 
 # Changelog
 
+## [**v3.8.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.8.0)
+
+Added
+{: .label .label-purple }
+- Added some logging features, more specifically:
+  - Message deleted
+  - Message edited
+
+* * *
+
 ## [**v3.7.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.7.0)
 
 Added
