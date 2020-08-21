@@ -6,7 +6,7 @@ nav_order: 2
 
 # Changelog
 
-## [**v3.9.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.9.0)
+## [**v3.9.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.9.0-releasefix)
 
 Added
 {: .label .label-purple }
