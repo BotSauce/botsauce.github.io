@@ -60,7 +60,6 @@ Added
 {: .label .label-purple }
 - Added code to check for specific key in POST request (a simple form of authentication)
 - Added basic auto-moderator that deletes a mssage if it contains a swear word
-- Added \stop
 
 * * *
 
