@@ -6,6 +6,15 @@ nav_order: 2
 
 # Changelog
 
+
+## [**v3.8.1**](https://github.com/BotSauce/BotSauce/releases/tag/v3.8.1)
+
+Fixed
+{: .label .label-green }
+- Fixed a bug where messages got logged even though the content was never edited
+
+* * *
+
 ## [**v3.8.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.8.0)
 
 Added
