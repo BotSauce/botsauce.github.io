@@ -6,6 +6,17 @@ nav_order: 2
 
 # Changelog
 
+## [**v3.9.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.9.0)
+
+Added
+{: .label .label-purple }
+- Added some logging features, more specifically:
+  - Join voice chat
+  - Leave voice chat
+  - Member leave
+  - Nickname change
+
+* * *
 
 ## [**v3.8.1**](https://github.com/BotSauce/BotSauce/releases/tag/v3.8.1)
 
