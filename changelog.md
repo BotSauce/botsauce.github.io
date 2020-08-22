@@ -6,6 +6,14 @@ nav_order: 2
 
 # Changelog
 
+## [**v3.9.1**](https://github.com/BotSauce/BotSauce/releases/tag/v3.9.1)
+
+Fixed
+{: .label .label-green }
+- Fixed a bug where if the user didn't have a nickname before or it got reset the nickname would show up as null in the logs
+
+* * *
+
 ## [**v3.9.0**](https://github.com/BotSauce/BotSauce/releases/tag/v3.9.0-releasefix)
 
 Added
