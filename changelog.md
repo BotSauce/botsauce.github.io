@@ -6,6 +6,22 @@ nav_order: 2
 
 # Changelog
 
+## [**v4.0.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.0.0)
+
+Fixed
+{: .label .label-green }
+- All the Twitch API stuff, and it finally works now
+- \ban
+- The \help command is now cleaner
+- Minor changes
+
+Added
+{: .label .label-purple }
+- More welcome messages
+- \social (removed \twitch, \youtube and \twitter)
+
+* * *
+
 ## [**v3.9.1**](https://github.com/BotSauce/BotSauce/releases/tag/v3.9.1)
 
 Fixed
