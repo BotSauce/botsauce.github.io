@@ -19,13 +19,7 @@ Resets the status to its original state
 # Admin only commands
 
 ## **\ban**
-Bans a user and sends them a DM containing the ban appeal form
+Bans a user and sends them a DM containing the ban appeal form (botsauce.github.io/banappeal.html)
 
 Usage: **\ban** *[user]* *[reason]*, or just **\ban** *[user]*
 {: .label .label-purple }
-
-## **\refreshtokens**
-Refreshes the Twitch API tokens.
-
-**RUN ONLY IN #botsauce-tokens**
-{: .label .label-red }
