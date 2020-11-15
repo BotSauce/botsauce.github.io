@@ -6,6 +6,18 @@ nav_order: 2
 
 # Changelog
 
+## [**v4.1.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.1.0)
+
+Added
+{: .label .label-purple }
+- The bot now logs the number of attachments in a deleted message.
+
+Fixed
+{: .label .label-green }
+- Minor changes/fixes.
+
+* * *
+
 ## [**v4.0.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.0.0)
 
 Fixed
