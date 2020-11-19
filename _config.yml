@@ -5,7 +5,9 @@ color_scheme: dark_purple
 
 # Aux links for the upper right navigation
 aux_links:
-  "BotSauce source code":
+  "Status":
+    - "https://botsauce.github.io/status/"
+  "Source code":
     - "//github.com/BotSauce/BotSauce"
   "Vsauce3 Discord Server":
     - "https://discord.gg/CxAbq5U"
