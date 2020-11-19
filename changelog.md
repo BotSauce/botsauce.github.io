@@ -6,6 +6,12 @@ nav_order: 2
 
 # Changelog
 
+## [**v4.2.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.2.0)
+
+Added
+{: .label .label-purple }
+- Added \send and \edit commands, which allow mods and admins to send messages as the bot and edit them
+
 ## [**v4.1.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.1.0)
 
 Added
