@@ -16,6 +16,14 @@ Usage: **\setstatus** *[status]*
 ## **\resetstatus**
 Resets the status to its original state
 
+# Mod/admin commands
+
+## **\send**
+Sends a message as the bot. Usage: **\\send** *channel ID* Message content
+
+## **\edit**
+Edits a message sent by/as the bot. Usage: **\\edit** *channel ID* *message ID* New message content
+
 # Admin only commands
 
 ## **\ban**
