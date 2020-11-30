@@ -18,7 +18,7 @@ Links to a randomly selected Vsauce3 video
 ## **\weigh**
 What does this command do? *Mmm, very good question. But more importantly... how much does it weigh?*
 
-## **\fingers**'
+## **\fingers**
 Hey, Vsauce. Michael here. *Where are your fingers?*
 
 ## **\succ**
