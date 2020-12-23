@@ -1,11 +1,11 @@
 ---
-title: Mod/Admin Commands
+title: Staff Commands
 parent: Commands
 has_children: false
 nav_order: 1
 ---
 
-# Mod/Admin commands
+# Staff commands
 
 ## **\setstatus**
 Sets a custom status for the bot.
@@ -15,8 +15,6 @@ Usage: **\setstatus** *status*
 
 ## **\resetstatus**
 Resets the status to its original state
-
-# Mod/admin commands
 
 ## **\send**
 Sends a message as the bot.
