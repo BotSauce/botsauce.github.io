@@ -25,7 +25,7 @@ Usage: **\\send** *channel ID* Message content
 ## **\edit**
 Edits a message sent by/as the bot.
 
-Usage: **\\edit** *channel ID* *message ID* New message content
+Usage: **\\edit** *message url* New message content
 {: .label .label-purple }
 
 # Admin only commands
