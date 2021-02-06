@@ -6,6 +6,27 @@ nav_order: 2
 
 # Changelog
 
+
+## [**v4.2.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.2.0)
+
+- Rewrote from scratch using Discord.js's Commando frameworkù
+
+Changed
+{: .label .label-blue }
+- Now using Twitch EventSub
+- Changed the usage of some commands (check \help)
+
+Added
+{: .label .label-purple }
+- \kick, \monty
+
+
+Fixed
+{: .label .label-green }
+- Minor fixes.
+
+* * *
+
 ## [**v4.2.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.2.0)
 
 Added
