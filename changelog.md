@@ -7,7 +7,7 @@ nav_order: 2
 # Changelog
 
 
-## [**v4.2.0**](https://github.com/BotSauce/BotSauce/releases/tag/v4.2.0)
+## [**v5.0.0**](https://github.com/BotSauce/BotSauce/releases/tag/v5.0.0)
 
 - Rewrote from scratch using Discord.js's Commando frameworkù
 
