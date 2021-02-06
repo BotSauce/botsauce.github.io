@@ -9,7 +9,7 @@ nav_order: 2
 
 ## [**v5.0.0**](https://github.com/BotSauce/BotSauce/releases/tag/v5.0.0)
 
-- Rewrote from scratch using Discord.js's Commando frameworkù
+- Rewrote from scratch using Discord.js's Commando framework
 
 Changed
 {: .label .label-blue }
