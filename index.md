@@ -4,6 +4,11 @@ has_children: true
 nav_order: 1
 ---
 
+# **BotSauce will not be in development for the near future.**
+
+* * *
+
+
 # Commands
 
 ## **\social**
